@@ -1,0 +1,4 @@
+- Hello, I’m @Snowy-Knight.
+- I’m interested in creating and developing community software for roleplaying games. (Character creation software and other RPG assistence software)
+- I'm only learning things that help me solve current issues.
+- I’m not currently looking to collaborate on anything, nor am I avoiding collaboration.
